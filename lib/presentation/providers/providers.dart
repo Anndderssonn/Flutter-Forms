@@ -1,1 +1,1 @@
-export 'blocs/counter_cubit/counter_cubit.dart';
+export 'cubits/counter_cubit/counter_cubit.dart';
